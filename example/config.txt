@@ -1,0 +1,2 @@
+Prefix plugins/AUC/example/
+Plugin AUC inputfile parameters.txt outputfile auc.csv
